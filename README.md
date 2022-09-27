@@ -1,3 +1,1 @@
-# myrepo
-
-This is a line from RStudio.
+# Read me
